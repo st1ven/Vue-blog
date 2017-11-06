@@ -2,7 +2,7 @@
 
 > SangSir Blog App.
 
-学习Vue的第一个边学边做小项目，前端使用Vue-cli进行构建，后端使用Typecho的Api插件获取数据，构建后使用cordova进行打包为App
+学习Vue的第一个边学边做小项目，前端使用Vue-cli进行构建，后端使用Typecho的Api插件获取博客文章数据，构建后使用cordova打包为App
 
 Typecho的Api插件可以在这里获得: [https://github.com/szj1006/typecho-api](https://github.com/szj1006/typecho-api)
 

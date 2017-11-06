@@ -2,6 +2,12 @@
 
 > SangSir Blog App.
 
+前端使用Vue-cli进行构建，后端使用Typecho的Api插件获取数据
+
+Typecho的Api插件可以在这里获得: [https://github.com/szj1006/typecho-api](https://github.com/szj1006/typecho-api)
+
+Demo: [https://lab.sangsir.com/vue-blog](https://lab.sangsir.com/vue-blog)
+
 ## Build Setup
 
 ``` bash
